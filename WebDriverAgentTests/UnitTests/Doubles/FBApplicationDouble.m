@@ -36,7 +36,7 @@
 
 - (NSString *)bundleID
 {
-  return @"com.facebook.awesome";
+  return @"com.chinajnc.awesome";
 }
 
 - (void)resolve
